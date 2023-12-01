@@ -1,0 +1,36 @@
+Proyecto de Gestión de Inventario y Ventas para una Tienda de Componentes de Computadoras
+
+Descripción del Proyecto:
+Se requiere desarrollar un sistema de gestión de inventario y ventas para una tienda de componentes de computadoras.
+La tienda cuenta con una variedad de productos, incluyendo placas madre, procesadores, tarjetas gráficas, memorias RAM, dispositivos de almacenamiento, periféricos, entre otros.
+
+Características Principales:
+
+Gestión de Productos:
+Registro de nuevos productos, especificando detalles como nombre, marca, descripción, precio, stock, etc.
+Asignación de productos a categorías específicas (placas madre, procesadores, etc.).
+Actualización y eliminación de productos existentes.
+
+Gestión de Categorías:
+Creación, modificación y eliminación de categorías para organizar los productos.
+
+Gestión de Proveedores:
+Registro de información de proveedores, incluyendo nombre, dirección, número de teléfono, correo electrónico, etc.
+Asociación de productos a proveedores específicos.
+
+Gestión de Clientes:
+Registro de información de clientes, como nombre, dirección, número de teléfono, correo electrónico, etc.
+
+Registro de Ventas:
+Proceso de venta que incluya la selección de productos, cantidad, y asociación a un cliente específico.
+Generación de facturas o recibos para las transacciones.
+
+Inventario:
+Seguimiento en tiempo real del stock de productos.
+Alertas o notificaciones cuando el stock de un producto está bajo.
+
+Historial de Transacciones:
+Registro de todas las transacciones, incluyendo ventas, actualizaciones de inventario, etc.
+
+Seguridad:
+Implementación de roles de usuario para garantizar que solo usuarios autorizados puedan realizar ciertas acciones.
